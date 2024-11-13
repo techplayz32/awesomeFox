@@ -1,5 +1,6 @@
 # <img src="https://raw.githubusercontent.com/techplayz32/awesomeFox/refs/heads/main/images/Firefox_logo%2C_2019.svg.png" height=40 width=40 align=top> Firefox  
-##### Last Updated: 13.11.2024
+> [!NOTE]
+> Last Updated: **13.11.2024** :shipit:
 
 # Installation
 Go to the [Mozilla's website](https://www.mozilla.org/en-US/firefox/) and download the browser by clicking on "Download for Desktop":

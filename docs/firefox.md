@@ -18,7 +18,7 @@ If you would like to add ***your own*** optimizations, you can access `about:con
 ### Extensions:  
 [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - a nice & easy on CPU and memory ad-blocker, suggesting follow guide about [recommended filter lists from yokoffing](https://github.com/yokoffing/filterlists)  
 [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/) - a good dark mode switcher that doesn't require you to go into the website's settings.  
-[Violentmonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/) - an userscript manager with support of Tampermonkey's and Greasemonkey's scripts, very nice if you're want to [block ads on Twitch (AdGuard Extra)](https://github.com/AdguardTeam/AdGuardExtra?tab=readme-ov-file#adguard-extra)  
+[Violentmonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/) - an userscript manager with support of Tampermonkey's and Greasemonkey's scripts, very nice if you want to [block ads on Twitch (AdGuard Extra)](https://github.com/AdguardTeam/AdGuardExtra?tab=readme-ov-file#adguard-extra)  
 [SponsorBlock](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/) - an extension to skip sponsored content in videos, allowing you to add your own custom timestamps for sponsored content that has not yet been added.  
 ### Scripts:  
 [WaveFox](https://github.com/QNetITQ/WaveFox) - a script that adds custom CSS theme for manual customization.  
